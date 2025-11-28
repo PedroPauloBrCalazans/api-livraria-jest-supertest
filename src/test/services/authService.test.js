@@ -22,3 +22,5 @@ describe("Testando a authService de cadastrar", () => {
 });
 
 // rejects valida erros ***** teste acima e conhecido como PADRÃO TRIPLE A
+// Classificação de teste unitário..
+// O teste sendo validado no proprio codigo e tivemos uma melhoria, Teste de caixa branca = acesso ao codigo...
